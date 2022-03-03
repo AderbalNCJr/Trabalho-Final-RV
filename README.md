@@ -77,6 +77,6 @@ Efeito de game over (script na tabela)
 Contador de pontos (script na tabela) *definir se o contador vai ficar exposto na tabela como se estivesse
 "pintado" ou se vai ficar fixo na tela do jogador
 
-Distrações com som (não faço a mínima ideia de como vou fazer isso)
+Distrações com som
 
 Embelezamento e mapeamento UV da tabela, Criação ou importação de ambiente (etapa final)
